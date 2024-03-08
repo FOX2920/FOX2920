@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **tranthanhsonhaiphong@gmail.com**
 
-- ⚡ Fun fact **I like listening to music and discovering new things**
+- ⚡ Fun fact **I like listening to music and discovering new things(like game lore or some tv series cotent)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
