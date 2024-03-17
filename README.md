@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Machine Learning,Big data, Java**
 
-- 👨‍💻 All of my projects are available at [https://github.com/FOX2920](https://github.com/FOX2920)
+- 👨‍💻 All of my projects are available [here](https://github.com/FOX2920?tab=repositories)
 
 - 📫 How to reach me **tranthanhsonhaiphong@gmail.com**
 
