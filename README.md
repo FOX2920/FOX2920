@@ -1,13 +1,20 @@
 <h1 align="center">Hi 👋, I'm Trần Thanh Sơn</h1>
 <h3 align="center">A passionate student from Viet Nam</h3>
 
-- 🌱 I’m currently learning **Machine Learning,Big data, Java**
+- 🔭  I'm a student at VNUHCM - University of Information Technology (UIT).
+
+- 🌍  I'm based in Ho Chi Minh City.
+
+- 🖥️  See my portfolio at [here](http://fox2920profile.streamlit.app/)
 
 - 👨‍💻 All of my projects are available [here](https://github.com/FOX2920?tab=repositories)
 
-- 📫 How to reach me **tranthanhsonhaiphong@gmail.com**
+- ✉️  You can contact me at [21522557@gm.edu.vn](mailto:21522557@gm.edu.vn)
 
-- ⚡ Fun fact **I like listening to music and discovering new things(like game lore or some tv series cotent)**
+- 🧠  I'm learning **Machine Learning,Big data, Java**
+
+- ⚡  Fun fact: I like listening to music and discovering new things (like game lore or some tv series content)
+
 
 ## Connect with me:
 
