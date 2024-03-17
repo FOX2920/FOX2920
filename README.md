@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Trần Thanh Sơn</h1>
 <h3 align="center">A passionate student from Viet Nam</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fox2920&label=Profile%20views&color=0e75b6&style=flat" alt="fox2920" /> </p>
-
 - 🌱 I’m currently learning **Machine Learning,Big data, Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/FOX2920](https://github.com/FOX2920)
