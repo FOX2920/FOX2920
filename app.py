@@ -7,7 +7,6 @@ def load_readme():
     return readme_text
 
 def main():
-    st.title("Streamlit Profile Website from README.md")
     readme_text = load_readme()
     st.markdown(markdown(readme_text), unsafe_allow_html=True)
 
