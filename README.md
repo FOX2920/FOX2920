@@ -9,21 +9,12 @@
 
 - ⚡ Fun fact **I like listening to music and discovering new things(like game lore or some tv series cotent)**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://discord.com/users/FOX2920" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="50" height="40" />
-    </a>
-    <a href="https://www.facebook.com/tranthanhson2003" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="50" height="40" />
-    </a>
-    <a href="https://www.github.com/FOX2920" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="50" height="40" />
-    </a>
-    <a href="https://www.linkedin.com/in/sơn-trần-thanh-58498a292/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="50" height="40" />
-    </a>
-</p>
+## Connect with me:
+
+![Linkedin](https://img.shields.io/badge/linkedin-3399FF?style=for-the-badge&logo=linkedin&logoColor=organge&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fs%25C6%25A1n-tr%25E1%25BA%25A7n-thanh-58498a292%2F)
+![Discord](https://img.shields.io/badge/Discord-3399CC?style=for-the-badge&logo=discord&logoColor=organge&link=https%3A%2F%2Fdiscord.com%2Fusers%2FFOX2920)
+![Gmail](https://img.shields.io/badge/Google_Mail-FF9966?style=for-the-badge&logo=gmail&logoColor=organge&link=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%23inbox%3Fcompose%3DCllgCJqbzPvLwXgwBNPjNVJlkbcfrJRwWZcmBLXfhPqpkkqnGlznqCWDLsXZfCcRgpslpKFMCXq)
+
 
 
 ## Technical skills
