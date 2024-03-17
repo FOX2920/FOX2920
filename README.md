@@ -26,8 +26,8 @@
 </p>
 
 
-## Tech Stack
-### Languages
+## TECHNICAL SKILLS
+### Programming languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -38,11 +38,10 @@
 ![R](https://img.shields.io/badge/R-00CCFF?style=for-the-badge&logo=r&logoColor=blue)
 
 
-### IDEs/Editors
+### IDE/ Workbench
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-33CC33?style=for-the-badge&logo=anaconda)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-FF6600?style=for-the-badge&logo=jupyter&logoColor=blue)
-![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
 
 
 ### Frameworks, Platforms and Libraries
@@ -67,7 +66,6 @@
 ### Operating System
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 
 ### Source Control
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -78,6 +76,10 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-FFCC99?style=for-the-badge&logo=opencv&logoColor=black)
+
+### Google Cloud Platform
+In development
+
 
 
 ### Offices
