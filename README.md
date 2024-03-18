@@ -78,15 +78,13 @@
 ### Google Cloud Platform
 In development
 
-
-
 ### Offices
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 
-## Education
+### Education
 [![Hackerrank](https://img.shields.io/badge/Hackerrank-CCFF99?style=for-the-badge&logo=hackerrank)](https://img.shields.io/badge/Hackerrank-33CC33?style=for-the-badge&logo=hackerrank)
 ![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)
 ![Udemy](https://img.shields.io/badge/Udemy-CC00FF?style=for-the-badge&logo=udemy&logoColor=black)
@@ -95,4 +93,10 @@ In development
 ### Others
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+
+## Education & Professional Certification
+
+## Personal projects
+
+
 
