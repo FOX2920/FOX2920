@@ -11,9 +11,11 @@
 
 - ✉️  You can contact me at [21522557@gm.edu.vn](mailto:21522557@gm.edu.vn)
 
-- 🧠  I'm learning **Machine Learning,Big data, Java**
+- 🧠  I'm learning **Machine Learning,Deep learning and Big data**
 
 - ⚡  Fun fact: I like listening to music and discovering new things (like game lore or some tv series content)
+
+
 
 
 ## Connect with me:
