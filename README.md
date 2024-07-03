@@ -96,14 +96,18 @@ In development
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-## Education & Professional Certification
+## Personal Projects
 
-## Personal projects
+| **Project Name** | **Description** | **Date** | **Technologies Used** |
+|------------------|-----------------|----------|-----------------------|
+| [AI-Powered Hotel Chatbot](https://github.com/FOX2920/hotel_chatbot) | Developed using Flask and Google Generative AI. Processed data from CSV files and used FAISS for efficient retrieval. Integrated natural language processing to handle conversational history and provide consistent answers. | 05/2024 | Flask, Google Generative AI, FAISS |
+| [Vietnamese Food Recognition](https://huggingface.co/spaces/SonFox2920/VNeseFood_detection/blob/main/README.md) | Developed a Streamlit application using a pre-trained Keras model. Implemented functionality for uploading images or providing image URLs for food recognition. Created a user-friendly interface with a sidebar listing the recognizable Vietnamese dishes. | 01/2024-02/2024 | Streamlit, Keras |
+| [Weather Data Collection & MySQL API Integration](https://github.com/FOX2920/Python_Projects_Weather-data-test-) | Developed a Python application to collect weather data using the OpenWeatherMap API. Integrated MySQL database connectivity for storing location and weather data. Managed database schema creation and data insertion. | 11/2023 | Python, MySQL, OpenWeatherMap API |
+| [Student Feedback Sentiment Analysis](https://github.com/FOX2920/Recognizing-Emotions-from-Responses) | Developed a Python application for analyzing student feedback sentiment on teaching methods. Utilized NLP and machine learning techniques to predict feedback as positive, neutral, or negative. Created a user-friendly interface for inputting feedback and viewing sentiment analysis results. | 04/2023-05/2023 | Python, NLP, Machine Learning |
 
-
-|          **Project Name**            |                  [Weather Data Collection & MySQL API Integration](https://github.com/FOX2920/Python_Projects_Weather-data-test-)                                                                                                                                                                                                                                                                                                                                 |
-| --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Description**   | Developed a Python application to collect weather data using OpenWeatherMap API and store it in a MySQL database. Integrated MySQL database connectivity for storing location and weather data. Managed database schema creation and data insertion using Python and MySQL. Monitored successful insertion of weather data into the MySQL database. |
-| **Team Size**         | 1                                                                                                                                                                                                                                                                                                                                                   |
-| **Responsibilities**  | Solely developed the project, including requirement analysis, coding, and documentation.                                                                                                                                                                                                                                                            |
-| **Technologies Used** | Python, MySQL, OpenWeatherMap API, countriesnow.space API                                                                                                                                                                                                                                                              |
+## Certifications
+- **IELTS Certificate:** [Band 5.5](https://student.uit.edu.vn/sites/daa/files/bangcap/21522557/21522557_bangcap_IELTS_20210919091300.jpg)
+- **HackerRank Certifications:**
+  - [Python (Basic)](https://www.hackerrank.com/certificates/5a9fbbb78365)
+  - [SQL (Intermediate)](https://www.hackerrank.com/certificates/7e4d26db61dc)
+  - [Software Engineer Intern](https://www.hackerrank.com/certificates/19263b1d0ca1)
