@@ -15,9 +15,6 @@
 
 - ⚡  Fun fact: I like listening to music and discovering new things (like game lore or some tv series content)
 
-
-
-
 ## Connect with me:
 
 ![Linkedin](https://img.shields.io/badge/linkedin-3399FF?style=for-the-badge&logo=linkedin&logoColor=organge&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fs%25C6%25A1n-tr%25E1%25BA%25A7n-thanh-58498a292%2F)
